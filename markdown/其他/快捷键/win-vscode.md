@@ -102,3 +102,9 @@ https://blog.csdn.net/maokelong95/article/details/54379046/
       }
 ```
 
+## maven 配置文件配置
+
+```xml
+    "java.configuration.maven.userSettings":"/opt/maven/conf/settings.xml",
+```
+
